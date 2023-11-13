@@ -1,6 +1,6 @@
 # ITC_Chllenge_submittion 
 
-## make sure you submit before 16:00 thursday november 13th 
+## make sure you submit before 16:00 Tuesday november 14th 
 
 # steps to fork:
  #### 1-Click on the "Fork" button in the top-right corner.
